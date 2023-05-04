@@ -8,17 +8,15 @@ layout: default
 
 Hi! I am a political scientist who uses computational methods and experiments to study political behavior in autocracies and the US. My major region of specialisation is Post-Soviet space.
 
-My research mainly focuses on one or several of the following fields:  
+I prefer to think that my research mainly focuses on one or several of the following fields:
 
- - [x] Computational Political Behavior (``CPB``)
+- [x] Computational Political Behavior (``CPB``)
 - [x]  Political Communication (``PC``)
- - [x] Comparative Political Psychology (``CPP``)  
- 
+- [x] Comparative Political Psychology (``CPP``)  
  
 <br/>
 
-I plan to be on the job market in 2025-26.
-
+**I plan/hope/who knows to be on the job market in 2025-26.**
 
 
 ## Research Interest
