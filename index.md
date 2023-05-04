@@ -10,11 +10,9 @@ Hi! I am a political scientist who uses computational methods and experiments to
 
 My research mainly focuses on one or more of the following fields:  
 
-#### Computational political behavior (CPB)
-#### Political communication (PC)
-#### Comparative political psychology (CPP)
-
-
+ - [x] Computational Political Behavior (`CPB`)
+- [x]  Political Communication (`PC`)
+ - [x] Comparative Political Psychology (`CPP`)
 
 I plan to be on the job market in 2025-26.
 
