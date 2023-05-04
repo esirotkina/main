@@ -6,7 +6,13 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a political scientist who uses computational methods to study political behavior in autocracies and the US. My research focuses on one or more of the following fields:  Computational political behavior (#CPB), Political communication (#PC), Comparative political psychology (#CPP)
+Hi! I am a political scientist who uses computational methods and experiments to study political behavior in autocracies and the US. My major region of specialisation is Post-Soviet space.
+
+My research mainly focuses on one or more of the following fields:  
+
+#### Computational political behavior (CPB)
+#### Political communication (PC)
+#### Comparative political psychology (CPP)
 
 I plan to be on the job market in 2025-26.
 
