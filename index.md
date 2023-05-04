@@ -13,7 +13,9 @@ I prefer to think that my research mainly focuses on one or several of the follo
 - [x] Computational Political Behavior (``**CPB**``)
 - [x]  Political Communication (``PC``)
 - [x] Comparative Political Psychology (``CPP``) 
+
 <br/>
+
 I plan/hope [insert degree of uncertainty here] to be **on the job market in 2025-26.**
 
 
