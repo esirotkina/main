@@ -10,9 +10,9 @@ Hi! I am a political scientist who uses computational methods and experiments to
 
 My research mainly focuses on one or several of the following fields:  
 
- - [x] Computational Political Behavior (`CPB`)
-- [x]  Political Communication (`PC`)
- - [x] Comparative Political Psychology (`CPP`)  
+ - [x] Computational Political Behavior (``CPB``)
+- [x]  Political Communication (``PC``)
+ - [x] Comparative Political Psychology (``CPP``)  
  
  
 <br/>
