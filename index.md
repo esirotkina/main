@@ -13,6 +13,8 @@ My research mainly focuses on one or more of the following fields:
  - [x] Computational Political Behavior (`CPB`)
 - [x]  Political Communication (`PC`)
  - [x] Comparative Political Psychology (`CPP`)
+ 
+ 
 
 I plan to be on the job market in 2025-26.
 
