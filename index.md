@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## About Me
+## Ph.D. Candidate, Political Science, University of North Carolina at Chapel Hill
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi! I am a political scientist who uses computational methods to study political behavior in autocracies and the US. My research focuses on one or more of the following fields:  Computational political behavior (#CPB), Political communication (#PC), Comparative political psychology (#CPP)
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+I plan to be on the job market in 2025-26.
+
+
 
 ## Research Interest
 
