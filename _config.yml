@@ -1,6 +1,6 @@
 title: Elena Sirotkina
-url: "https://esirotkina.github.io/researcher/"
-baseurl: "/researcher"
+url: "https://esirotkina.github.io/main/"
+baseurl: "/main"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -8,7 +8,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
+footer_url: ""
 footer_text: "Page design by Ankit Sultana"
 
 sass:
