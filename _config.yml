@@ -6,7 +6,7 @@ markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
 tracking_id: #
-google_analytics: "G-41CDFP8VXH"
+#google_analytics: "G-41CDFP8VXH"
 
 footer: yes
 footer_url: ""
