@@ -58,12 +58,12 @@ The rest is in my [CV](https://esirotkina.github.io/main/resume.pdf).
 ## Publications
 
 *Articles*
-1. [How Biased Media Generate Support for the Ruling Authorities: Causal Mediation Analysis of Evidence from Russia.](https://doi.org/10.1177/0267323120966840) European Journal of Communication}. 2020. Vol.36. N.2.  P.183-200. (**``CPP``**) 
-2. [When the Party's Over: Political Blame Attribution under an Electoral Authoritarian Regime.](https://www.tandfonline.com/doi/abs/10.1080/1060586X.2019.1639386) Post-Soviet Affairs}. 2020. Vol.36. N.1. P.36-60. (with Margarita Zavadskaya) (**``CPP``**) 
+1. [How Biased Media Generate Support for the Ruling Authorities: Causal Mediation Analysis of Evidence from Russia.](https://doi.org/10.1177/0267323120966840) European Journal of Communication. 2020. Vol.36. N.2.  P.183-200. (**``CPP``**) 
+2. [When the Party's Over: Political Blame Attribution under an Electoral Authoritarian Regime.](https://www.tandfonline.com/doi/abs/10.1080/1060586X.2019.1639386) Post-Soviet Affairs. 2020. Vol.36. N.1. P.36-60. (with Margarita Zavadskaya) (**``CPP``**) 
 3. [A Top-down Movement with Grass-Roots Effects? Alexei Navalny's Electoral Campaign.](https://www.tandfonline.com/doi/abs/10.1080/14742837.2018.1483228)
 Social Movement Studies}. 2018. Vol.17. N.5. P.618-625. (with Jan Dollbaum and Andrei Semenov) (**``CPP``**) 
 
 *Book chapters*
 
-1. [Active Urbanites in an Authoritarian Regime.](https://www.google.com/books/edition/Varieties_of_Russian_Activism/esisEAAAQBAJ?hl=en&gbpv=1&dq=info:JppBri1IavcJ:scholar.google.com&pg=PT247&printsec=frontcover) In: Regina Smyth, Jeremy Morris, Andrei Semenov (eds.): \textit{Urban Activism in Contemporary Russia}, Bloomington: Indiana University Press. (with Jan Dollbaum and Andrei Semenov), 2023. (**``CPP``**) 
-2. [Varieties of Russian Activism: State-society Contestation in Everyday Life.](https://www.google.com/books/edition/Varieties_of_Russian_Activism/esisEAAAQBAJ?hl=en&gbpv=0) Katie Stewart, Madeline McCann, Carola Neugebauer, Irina Shevtsova, Daniela Zupan, Irina Meyer-Olimpieva, Katherine Hitchcock, John P Burgess, Anna Zhelnina, Anna A Dekalchuk, Ivan S Grigoriev, Eleonora Minaeva, Jan Matti Dollbaum, Guzel Yusupova, Elena Sirotkina. \textit{Indiana University Press}, 2023. (**``CPP``**)
+1. [Active Urbanites in an Authoritarian Regime.](https://www.google.com/books/edition/Varieties_of_Russian_Activism/esisEAAAQBAJ?hl=en&gbpv=1&dq=info:JppBri1IavcJ:scholar.google.com&pg=PT247&printsec=frontcover) In: Regina Smyth, Jeremy Morris, Andrei Semenov (eds.): Urban Activism in Contemporary Russia, Bloomington: Indiana University Press. (with Jan Dollbaum and Andrei Semenov), 2023. (**``CPP``**) 
+2. [Varieties of Russian Activism: State-society Contestation in Everyday Life.](https://www.google.com/books/edition/Varieties_of_Russian_Activism/esisEAAAQBAJ?hl=en&gbpv=0) Katie Stewart, Madeline McCann, Carola Neugebauer, Irina Shevtsova, Daniela Zupan, Irina Meyer-Olimpieva, Katherine Hitchcock, John P Burgess, Anna Zhelnina, Anna A Dekalchuk, Ivan S Grigoriev, Eleonora Minaeva, Jan Matti Dollbaum, Guzel Yusupova, Elena Sirotkina. Indiana University Press, 2023. (**``CPP``**)
