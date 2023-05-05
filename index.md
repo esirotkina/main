@@ -25,10 +25,9 @@ I plan/hope [insert degree of uncertainty here] to be **on the job market in 202
 
 ## I am currently working on:
 
-These are some of the most exciting projects I am working on right now:
 
 - *Visual political polarization:  How people look at political images and what they  
-see (with Olga Gasparyan)* (**``CPB``**) (**``PC``**)   
+see (with Olga Gasparyan)* (**``CPB``**) (**``PC``**) (JMP-2)
 
 <p style="margin-left: 45px;">  <font size="-3">  Olga and I are proposing a new approach to understanding why some visuals depicting politics trigger polarized evaluations while others do not. We argue that the key to understanding this puzzle lies in how we analyze these images and what we consider an important analysis unit. Understanding this will improve our prediction of the effect that political images have on perceptions.  </font>  </p>
   
@@ -40,6 +39,15 @@ Framing of Immigration in News Stories (with Olga Gasparyan and Michelle Torres)
 - *Using Visual Sentiment Labeling to Address Annotator Bias (with Olga Gasparyan and Michelle Torres)* (**``CPB``**) (**``PC``**)   
 
 <p style="margin-left: 45px;">  <font size="-3">  We point out an important limitation of studies that use at-scale approaches to address annotator bias. In addition to showing that some biases cannot be addressed, we provide a guide for how to proceed.  </font>  </p>
+
+
+- *A Theory of Guided  Propaganda* (**``CPB``**) (**``PC``**) (**``CPP``**)  (JMP-1)
+
+<p style="margin-left: 45px;">  <font size="-3">  Using machine learning tools, I am exploring the long-term structural properties of propaganda canvas that (could) affect persuation. The project is at the data mining stage. </font> </p>
+
+- *Autocrat versus Challenger: Implicit and Explicit Political Support in Autocracies*  (**``CPP``**) 
+
+<p style="margin-left: 45px;">  <font size="-3">  To explain why citizens support or oppose dictatorial leadership, most approaches to studying political behavior and public opinion in autocracies focus on public explicit preferences. I show that implicit attitudes - people's gut feelings about politics - represent a significant source of citizens' disruptive preferences against the regime and in support of dictators' opponents.  </font> </p>
 
 
    
