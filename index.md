@@ -47,7 +47,7 @@ Framing of Immigration in News Stories (with Olga Gasparyan and Michelle Torres)
 
 - *Autocrat versus Challenger: Implicit and Explicit Political Support in Autocracies*  (**``CPP``**) 
 
-<p style="margin-left: 45px;">  <font size="-3">  To explain why citizens support or oppose dictatorial leadership, most approaches to studying political behavior and public opinion in autocracies focus on public explicit preferences. I show that implicit attitudes - people's gut feelings about politics - represent a significant source of citizens' disruptive preferences against the regime and in support of dictators' opponents.  </font> </p>
+<p style="margin-left: 45px;">  <font size="-3">  To explain why citizens support or oppose dictatorial leadership, most approaches to studying political behavior and public opinion in autocracies focus on mass explicit preferences. I show that implicit preferences - people's gut attitudes about politics - represent a significant and yet undertstudied source of citizens' disruptive preferences against the regime and in support of dictators' opponents.  </font> </p>
 
 
    
