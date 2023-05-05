@@ -32,7 +32,7 @@ see (with [Olga Gasparyan](https://olgasparyan.com/)) (**``CPB``**) (**``PC``**)
 <p style="margin-left: 45px;">  <font size="-3">  Olga and I are proposing a new approach to understanding why some visuals depicting politics trigger polarized evaluations while others do not. We argue that the key to understanding this puzzle lies in how we analyze these images and what we consider an important analysis unit. Understanding this will improve our prediction of the effect that political images have on perceptions.  </font>  </p>
   
 - Media Choice and Audience Reaction: Evidence from Visual
-Framing of Immigration in News Stories (with [Olga Gasparyan](https://olgasparyan.com/) and [Michelle Torres](http://smtorres.org/))* (**``CPB``**) (**``PC``**)   
+Framing of Immigration in News Stories (with [Olga Gasparyan](https://olgasparyan.com/) and [Michelle Torres](http://smtorres.org/)) (**``CPB``**) (**``PC``**)   
 
 <p style="margin-left: 45px;">  <font size="-3">  We explore how media outlets from different ideological perspectives visually frame a polarizing issue, immigration, and how their target audiences are likely to interpret these frames. We illustrate yet again that media bias is important to study, but this time from the perspective of a visual slant.  </font>  </p>
      
