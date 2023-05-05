@@ -18,6 +18,7 @@ I prefer to think that my research mainly focuses on one or several of the follo
 I plan/hope [insert degree of uncertainty here] to be **on the job market in 2025-26.**
 
 <br/>
+<br/>
 
 
 
@@ -28,8 +29,14 @@ These are some of the most exciting projects I am working on right now:
 
 - *Visual political polarization:  How people look at political images and what they  
 see (with Olga Gasparyan)* (**``CPB``**) (**``PC``**)   
-<ul>  <font size="-3">  Olga and I are proposing a new approach to understanding why some visuals depicting politics trigger polarized evaluations while others do not. We argue that the key to understanding this puzzle lies in how we analyze these images and what we consider an important analysis unit. Understanding this will improve our prediction of the effect that political images have on perceptions.  </font>  </ul>
-       
+
+<p style="margin-left: 35px;">  <font size="-3">  Olga and I are proposing a new approach to understanding why some visuals depicting politics trigger polarized evaluations while others do not. We argue that the key to understanding this puzzle lies in how we analyze these images and what we consider an important analysis unit. Understanding this will improve our prediction of the effect that political images have on perceptions.  </font>  </p>
+   
+   
+<br/>
+<br/>
+
+
 ## Publications
 
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
