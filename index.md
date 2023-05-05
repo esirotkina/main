@@ -26,8 +26,8 @@ I plan/hope [insert degree of uncertainty here] to be **on the job market in 202
 ## I am currently working on:
 
 
-- *Visual political polarization:  How people look at political images and what they  
-see (with [Olga Gasparyan](https://olgasparyan.com/))* (**``CPB``**) (**``PC``**) (JMP-2)
+- Visual political polarization:  How people look at political images and what they  
+see (with [Olga Gasparyan](https://olgasparyan.com/)) (**``CPB``**) (**``PC``**) (JMP-2)
 
 <p style="margin-left: 45px;">  <font size="-3">  Olga and I are proposing a new approach to understanding why some visuals depicting politics trigger polarized evaluations while others do not. We argue that the key to understanding this puzzle lies in how we analyze these images and what we consider an important analysis unit. Understanding this will improve our prediction of the effect that political images have on perceptions.  </font>  </p>
   
@@ -67,4 +67,3 @@ Social Movement Studies}. 2018. Vol.17. N.5. P.618-625. (with Jan Dollbaum and A
 
 1. [Active Urbanites in an Authoritarian Regime.](https://www.google.com/books/edition/Varieties_of_Russian_Activism/esisEAAAQBAJ?hl=en&gbpv=1&dq=info:JppBri1IavcJ:scholar.google.com&pg=PT247&printsec=frontcover) In: Regina Smyth, Jeremy Morris, Andrei Semenov (eds.): \textit{Urban Activism in Contemporary Russia}, Bloomington: Indiana University Press. (with Jan Dollbaum and Andrei Semenov), 2023. (**``CPP``**) 
 2. [Varieties of Russian Activism: State-society Contestation in Everyday Life.](https://www.google.com/books/edition/Varieties_of_Russian_Activism/esisEAAAQBAJ?hl=en&gbpv=0) Katie Stewart, Madeline McCann, Carola Neugebauer, Irina Shevtsova, Daniela Zupan, Irina Meyer-Olimpieva, Katherine Hitchcock, John P Burgess, Anna Zhelnina, Anna A Dekalchuk, Ivan S Grigoriev, Eleonora Minaeva, Jan Matti Dollbaum, Guzel Yusupova, Elena Sirotkina. \textit{Indiana University Press}, 2023. (**``CPP``**) 
-
