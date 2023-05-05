@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: yes
 footer_url: ""
-footer_text: "Page is designed by Ankit Sultana. I've modeled my website content after Polina Zabrodskaya's website, who is a brilliant and talented professional, just like me one day."
+footer_text: "(C) Elena Sirotkina | Page is designed by Ankit Sultana. I've modeled my website content after Polina Zabrodskaya's website, who is a brilliant and talented professional, just like me one day."
 
 sass:
     style: compressed
