@@ -30,8 +30,18 @@ These are some of the most exciting projects I am working on right now:
 - *Visual political polarization:  How people look at political images and what they  
 see (with Olga Gasparyan)* (**``CPB``**) (**``PC``**)   
 
-<p style="margin-left: 35px;">  <font size="-3">  Olga and I are proposing a new approach to understanding why some visuals depicting politics trigger polarized evaluations while others do not. We argue that the key to understanding this puzzle lies in how we analyze these images and what we consider an important analysis unit. Understanding this will improve our prediction of the effect that political images have on perceptions.  </font>  </p>
-   
+<p style="margin-left: 45px;">  <font size="-3">  Olga and I are proposing a new approach to understanding why some visuals depicting politics trigger polarized evaluations while others do not. We argue that the key to understanding this puzzle lies in how we analyze these images and what we consider an important analysis unit. Understanding this will improve our prediction of the effect that political images have on perceptions.  </font>  </p>
+  
+- *Media Choice and Audience Reaction: Evidence from Visual
+Framing of Immigration in News Stories (with Olga Gasparyan and Michelle Torres)* (**``CPB``**) (**``PC``**)   
+
+<p style="margin-left: 45px;">  <font size="-3">  We explore how media outlets from different ideological perspectives visually frame a polarizing issue, immigration, and how their target audiences are likely to interpret these frames. We illustrate yet again that media bias is important to study, but this time from the perspective of a visual slant.  </font>  </p>
+     
+- *Using Visual Sentiment Labeling to Address Annotator Bias (with Olga Gasparyan and Michelle Torres)* (**``CPB``**) (**``PC``**)   
+
+<p style="margin-left: 45px;">  <font size="-3">  We point out an important limitation of studies that use at-scale approaches to address annotator bias. In addition to showing that some biases cannot be addressed, we provide a guide for how to proceed.  </font>  </p>
+
+
    
 <br/>
 <br/>
