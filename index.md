@@ -43,7 +43,7 @@ Framing of Immigration in News Stories (with [Olga Gasparyan](https://olgasparya
 
 - A Theory of Guided  Propaganda (**``CPB``**) (**``PC``**) (**``CPP``**)  (JMP-1)
 
-<p style="margin-left: 45px;">  <font size="-3">  Using machine learning tools, I am exploring the long-term structural properties of political propaganda canvas that (could) affect persuation in autocracy. The project is at the data mining stage. </font> </p>
+<p style="margin-left: 45px;">  <font size="-3">  By using machine learning tools, I am exploring persistent structural properties of political propaganda canvas that (could) affect persuasion in autocracy. The project is in the data mining phase. </font> </p>
 
 - Autocrat versus Challenger: Implicit and Explicit Political Support in Autocracies  (**``CPP``**) 
 
