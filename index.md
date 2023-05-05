@@ -22,8 +22,8 @@ I plan/hope [insert degree of uncertainty here] to be **on the job market in 202
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 
-&emsp; <p><small>This is some smaller text.</small></p> 
-
+<p><small> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is some smaller text.</small></p>
+       
 ## Publications
 
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
