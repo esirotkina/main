@@ -58,7 +58,7 @@ The rest is in my [CV](https://esirotkina.github.io/main/resume.pdf).
 ## Publications
 
 *Articles*
-1. [How Biased Media Generate Support for the Ruling Authorities: Causal Mediation Analysis of Evidence from Russia.](https://doi.org/10.1177/0267323120966840) European Journal of Communication. 2020. Vol.36. N.2.  P.183-200. (**``PC``**)(**``CPP``**) 
+1. [How Biased Media Generate Support for the Ruling Authorities: Causal Mediation Analysis of Evidence from Russia.](https://doi.org/10.1177/0267323120966840) European Journal of Communication. 2020. Vol.36. N.2.  P.183-200. (**``PC``**) (**``CPP``**) 
 2. [When the Party's Over: Political Blame Attribution under an Electoral Authoritarian Regime.](https://www.tandfonline.com/doi/abs/10.1080/1060586X.2019.1639386) Post-Soviet Affairs. 2020. Vol.36. N.1. P.36-60. (with Margarita Zavadskaya) (**``CPP``**) 
 3. [A Top-down Movement with Grass-Roots Effects? Alexei Navalny's Electoral Campaign.](https://www.tandfonline.com/doi/abs/10.1080/14742837.2018.1483228)
 Social Movement Studies. 2018. Vol.17. N.5. P.618-625. (with Jan Dollbaum and Andrei Semenov) (**``CPP``**) 
