@@ -36,7 +36,7 @@ Framing of Immigration in News Stories.](https://osf.io/4tfjx) (with [Olga Gaspa
 
 <p style="margin-left: 45px;">  <font size="-3">  We explore how media outlets from different ideological perspectives visually frame a polarizing issue, immigration, and how their target audiences are likely to interpret these frames. We illustrate yet again that media bias is important to study, but this time from the perspective of a visual slant.  </font>  </p>
      
-- Using Visual Sentiment Labeling to Address Annotator Bias (with [Olga Gasparyan](https://olgasparyan.com/) and [Michelle Torres](http://smtorres.org/)) (**``CPB``**) (**``PC``**)   
+- Using Visual Sentiment Labeling to Address Annotator Bias (with [Olga Gasparyan](https://olgasparyan.com/)) (**``CPB``**) (**``PC``**)   
 
 <p style="margin-left: 45px;">  <font size="-3">  We point out an important limitation of studies that use at-scale approaches to address annotator bias. In addition to showing that some biases cannot be addressed, we provide a guide for how to proceed.  </font>  </p>
 
