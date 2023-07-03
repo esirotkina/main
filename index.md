@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a political scientist who uses computational methods and experiments to study political behavior in autocracies and the US. My major region of specialisation is Post-Soviet space.
+Hi! I am a political scientist who uses computational methods and experiments to study political behavior in autocracies and the US. My major region of specialization is Post-Soviet space.
 
 I prefer to think that my research mainly focuses on one or several of the following fields:
 
@@ -26,8 +26,8 @@ I plan/hope [insert degree of uncertainty here] to be **on the job market in 202
 ## I am currently working on:
 
 
-- Visual political polarization:  How people look at political images and what they  
-see (with [Olga Gasparyan](https://olgasparyan.com/)) (**``CPB``**) (**``PC``**) (JMP-2)
+- [Visual political polarization:  How people look at political images and what they  
+see.](https://www.dropbox.com/s/e84ucpoejuau8xb/Sirotkina_Gasparyan_VisPolarization.pdf?dl=0) (with [Olga Gasparyan](https://olgasparyan.com/)) (**``CPB``**) (**``PC``**) (JMP-2)
 
 <p style="margin-left: 45px;">  <font size="-3">  Olga and I are proposing a new approach to understanding why some visuals depicting politics trigger polarized evaluations while others do not. We argue that the key to understanding this puzzle lies in how we analyze these images and what we consider an important analysis unit. Understanding this will improve our prediction of the effect that political images have on perceptions.  </font>  </p>
   
@@ -47,7 +47,7 @@ Framing of Immigration in News Stories.](https://osf.io/4tfjx) (with [Olga Gaspa
 
 - Autocrat versus Challenger: Implicit and Explicit Political Support in Autocracies  (**``CPP``**) 
 
-<p style="margin-left: 45px;">  <font size="-3">  To explain why citizens support or oppose dictatorial leadership, most approaches to studying political behavior and public opinion in autocracies focus on mass explicit preferences. I show that implicit preferences - people's gut attitudes about politics - represent a significant and yet undertstudied source of citizens' disruptive preferences against the regime and in support of dictators' opponents.  </font> </p>
+<p style="margin-left: 45px;">  <font size="-3">  To explain why citizens support or oppose dictatorial leadership, most approaches to studying political behavior and public opinion in autocracies focus on mass explicit preferences. I show that implicit preferences - people's gut attitudes about politics - represent a significant and yet understudied source of citizens' disruptive preferences against the regime and in support of dictators' opponents.  </font> </p>
 
 The rest is in my [CV](https://esirotkina.github.io/main/resume.pdf).
    
