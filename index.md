@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a political scientist who uses computational methods and experiments to study political behavior in autocracies and the US. My major region of specialization is Post-Soviet space.
+Hi! I am a political scientist who uses computational methods and experiments to study political behavior. My major region of specialization is Post-Soviet space.
 
 I prefer to think that my research mainly focuses on one or several of the following fields:
 
