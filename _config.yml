@@ -1,6 +1,6 @@
 title: Elena Sirotkina
 url: "https://elenasirotkina.rocks"
-baseurl: "/main"
+baseurl: "/main/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
