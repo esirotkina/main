@@ -1,6 +1,6 @@
 title: Elena Sirotkina
 url: "https://elenasirotkina.rocks"
-baseurl: "/main/"
+baseurl: "/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -18,7 +18,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/main/"
+   link: "/"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
