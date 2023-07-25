@@ -10,7 +10,7 @@ tracking_id: #
 
 footer: yes
 footer_url: ""
-footer_text: "(C) Elena Sirotkina | PhD Candidate, UNC-CH"
+footer_text: "(C) Elena Sirotkina | Ph.D. Candidate, UNC-CH"
 
 sass:
     style: compressed
