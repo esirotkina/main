@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a political scientist who uses computational methods and experiments to study political behavior. My major region of specialization is Post-Soviet space.
+Hi! I am a political scientist who uses computational methods and experiments to study political behavior. My major region of specialization is post-Soviet space.
 
 I prefer to think that my research mainly focuses on one or several of the following fields:
 
@@ -45,7 +45,7 @@ Framing of Immigration in News Stories.](https://osf.io/4tfjx) (with [Olga Gaspa
 
 <p style="margin-left: 45px;">  <font size="-3">  By using machine learning tools, I am exploring persistent structural properties of political propaganda canvas that (could) affect persuasion in autocracy. The project is in the data mining phase. </font> </p>
 
-- Autocrat versus Challenger: Implicit and Explicit Political Support in Autocracies  (**``CPP``**) 
+- [Autocrat versus Challenger: Revealing Hidden Discontent through Implicit Political Attitudes.](https://www.dropbox.com/scl/fi/nv2pwtfkpd6y5qwkrgclp/Sirotkina-Implicit-attitudes-VWAR.pdf?rlkey=xm133krd06ixvis3zrr1ozern&dl=0)  (**``CPP``**) 
 
 <p style="margin-left: 45px;">  <font size="-3">  To explain why citizens support or oppose dictatorial leadership, most approaches to studying political behavior and public opinion in autocracies focus on mass explicit preferences. I show that implicit preferences - people's gut attitudes about politics - represent a significant and yet understudied source of citizens' disruptive preferences against the regime and in support of dictators' opponents.  </font> </p>
 
