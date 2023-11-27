@@ -49,7 +49,7 @@ Framing of Immigration in News Stories.](https://osf.io/4tfjx) (with [Olga Gaspa
 
 <p style="margin-left: 45px;">  <font size="-3">  To explain why citizens support or oppose dictatorial leadership, most approaches to studying political behavior and public opinion in autocracies focus on mass explicit preferences. I show that implicit preferences - people's gut attitudes about politics - represent a significant and yet understudied source of citizens' disruptive preferences against the regime and in support of dictators' opponents.  </font> </p>
 
-The rest is in my [CV](https://esirotkina.github.io/main/resume.pdf).
+The rest is in my [CV](https://esirotkina.github.io/main/cv.pdf).
    
 <br/>
 <br/>
