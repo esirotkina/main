@@ -26,8 +26,8 @@ I plan/hope [insert degree of uncertainty here] to be **on the job market in 202
 ## I am currently working on:
 
 
-- [Visual political polarization:  How people look at political images and what they  
-see.](https://www.dropbox.com/s/e84ucpoejuau8xb/Sirotkina_Gasparyan_VisPolarization.pdf?dl=0) (with [Olga Gasparyan](https://olgasparyan.com/)) (**``CPB``**) (**``PC``**) (JMP-2)
+- [Vision and Division: Democrats and Republicans Look at Political Images
+Differently, Reflecting Their Attitude.](https://www.dropbox.com/s/e84ucpoejuau8xb/Sirotkina_Gasparyan_VisPolarization.pdf?dl=0](http://olgasparyan.com/documents/202405_SG_VisionDivision.pdf) (with [Olga Gasparyan](https://olgasparyan.com/)) (**``CPB``**) (**``PC``**) (JMP-2)
 
 <p style="margin-left: 45px;">  <font size="-3">  Olga and I are proposing a new approach to understanding why some visuals depicting politics trigger polarized evaluations while others do not. We argue that the key to understanding this puzzle lies in how we analyze these images and what we consider an important analysis unit. Understanding this will improve our prediction of the effect that political images have on perceptions.  </font>  </p>
   
