@@ -31,12 +31,12 @@ Differently, Reflecting Their Attitude.](http://olgasparyan.com/documents/202405
 
 <p style="margin-left: 45px;">  <font size="-3">  Olga and I are proposing a new approach to understanding why some visuals depicting politics trigger polarized evaluations while others do not. We argue that the key to understanding this puzzle lies in how we analyze these images and what we consider an important analysis unit. Understanding this will improve our prediction of the effect that political images have on perceptions.  </font>  </p>
   
-- [Media Choice and Audience Reaction: Evidence from Visual
-Framing of Immigration in News Stories.](https://osf.io/4tfjx) (with [Olga Gasparyan](https://olgasparyan.com/)) (**``CPB``**) (**``PC``**)   
+- [Media Choice and Audience Perceptions: Evidence from
+Visual Framing of Immigration in News Stories.]([https://osf.io/4tfjx](https://www.dropbox.com/scl/fi/tcepn3ngtyg6sishdacn7/MediaBias2024.pdf?rlkey=wo5url36rf8diqnke0sb8me8k&st=dmeg9ubm&dl=0)) (with [Olga Gasparyan](https://olgasparyan.com/)) (**``CPB``**) (**``PC``**)   
 
 <p style="margin-left: 45px;">  <font size="-3">  We explore how media outlets from different ideological perspectives visually frame a polarizing issue, immigration, and how their target audiences are likely to interpret these frames. We illustrate yet again that media bias is important to study, but this time from the perspective of a visual slant.  </font>  </p>
      
-- Using Visual Sentiment Labeling to Address Annotator Bias (with [Olga Gasparyan](https://olgasparyan.com/)) (**``CPB``**) (**``PC``**)   
+- [Decoding Visual Sentiment of Political Imagery.]([https://www.dropbox.com/scl/fi/xhodmxd8ditqibbh004rx/Decoding.pdf?rlkey=20wognrrzi9fvaubc7xuv62pw&st=tvcjr54v&dl=0](https://www.dropbox.com/scl/fi/u2br4onkm751kuy4os210/Decoding-Visual-Sentiment-of-Political-Imagery.pdf?rlkey=3chk75j6m2oax4a3n2bwrabsw&st=2av3k1em&dl=0)) (with [Olga Gasparyan](https://olgasparyan.com/)) (**``CPB``**) (**``PC``**)   
 
 <p style="margin-left: 45px;">  <font size="-3">  We point out an important limitation of studies that use at-scale approaches to address annotator bias. In addition to showing that some biases cannot be addressed, we provide a guide for how to proceed.  </font>  </p>
 
