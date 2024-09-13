@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! In my research, I answer how machine learning can be applied to explain and predict political behavior at scale. I focus on developing advanced classification models that combine experimentation, eye-tracking data, and deep learning techniques to answer how deeply rooted societal divisions influence political actions. My work aims to provide a better understanding of these behaviors and improve predictive accuracy in political science. My major region of specialization is the USA and post-Soviet space.
+Hi! In my research, I explore how machine learning can be applied to explain and predict political behavior at scale. I focus on developing advanced classification models that integrate experimentation, eye-tracking data, and deep learning techniques to help us understand how deeply rooted societal divisions influence political actions. My work aims to provide a better understanding of these behaviors and improve predictive accuracy in political science. My primary regions of specialization are the USA and the post-Soviet space.
 
 I prefer to think that my research mainly focuses on one or several of the following fields:
 
