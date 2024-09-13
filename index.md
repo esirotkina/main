@@ -27,7 +27,7 @@ I plan/hope [insert degree of uncertainty here] to be **on the job market in 202
 
 
 - [Vision and Division: Democrats and Republicans Look at Political Images
-Differently, Reflecting Their Attitude.](http://olgasparyan.com/documents/202405_SG_VisionDivision.pdf) (with [Olga Gasparyan](https://olgasparyan.com/)) (**``CPB``**) (**``PC``**) (JMP-2)
+Differently, Reflecting Their Attitude.]([http://olgasparyan.com/documents/202405_SG_VisionDivision.pdf](https://www.dropbox.com/scl/fi/flrv2ufi60rwgtgpddc04/Gasparyan-Sirotkina-Visual-Sentiment.pdf?rlkey=squ4dh0vvgp5tfxkx3orqhrso&e=1&st=kw3chxsy&dl=0)) (with [Olga Gasparyan](https://olgasparyan.com/)) (**``CPB``**) (**``PC``**) (JMP-2)
 
 <p style="margin-left: 45px;">  <font size="-3">  Olga and I are proposing a new approach to understanding why some visuals depicting politics trigger polarized evaluations while others do not. We argue that the key to understanding this puzzle lies in how we analyze these images and what we consider an important analysis unit. Understanding this will improve our prediction of the effect that political images have on perceptions.  </font>  </p>
   
