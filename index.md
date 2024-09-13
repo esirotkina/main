@@ -8,8 +8,7 @@ layout: default
 
 Hi!
 
-In my research, I answer how machine learning can explain and predict political behavior at scale. My research focuses on developing classification tools that leverage experimentation, eye-tracking, and deep learning to understand how stable societal cleavages can help predict political decisions. My work aims to deepen our understanding of these behaviors and boost predictive accuracy in political science. I primarily specialize in the U.S. and post-Soviet regions.
-
+My research answers how machine learning can be applied to explain and predict political behavior at scale. I focus on developing classification tools that combine experimentation, eye-tracking, and deep learning to understand how stable societal divisions influence political decisions. My work seeks to expand our understanding of these dynamics and improve predictive accuracy in political science, with a primary focus on the U.S. and post-Soviet space.
 
 I prefer to think that my research mainly focuses on one or several of the following fields:
 
