@@ -34,20 +34,20 @@ Differently, Reflecting Their Attitude.](http://olgasparyan.com/documents/202405
 - [Media Choice and Audience Perceptions: Evidence from
 Visual Framing of Immigration in News Stories.](https://www.dropbox.com/scl/fi/tcepn3ngtyg6sishdacn7/MediaBias2024.pdf?rlkey=wo5url36rf8diqnke0sb8me8k&st=ywastor4&dl=0) (with [Olga Gasparyan](https://olgasparyan.com/)) (**``AP``**) (**``PC``**) (**``CPB``**)   
 
-<p style="margin-left: 45px;">  <font size="-3">  We explore how media outlets from different ideological perspectives visually frame a polarizing issue, immigration, and how their target audiences are likely to interpret these frames. We illustrate yet again that media bias is important to study, but this time from the perspective of a visual slant.  </font>  </p>
+<p style="margin-left: 45px;">  <font size="-1">  We explore how media outlets from different ideological perspectives visually frame a polarizing issue, immigration, and how their target audiences are likely to interpret these frames. We illustrate yet again that media bias is important to study, but this time from the perspective of a visual slant.  </font>  </p>
      
 - [When Picture is not Complete: Decoding Visual Sentiment of Political Imagery.](https://www.dropbox.com/scl/fi/flrv2ufi60rwgtgpddc04/Gasparyan-Sirotkina-Visual-Sentiment.pdf?rlkey=squ4dh0vvgp5tfxkx3orqhrso&e=1&st=kw3chxsy&dl=0) (**``AP``**) (**``CPB``**)   
 
-<p style="margin-left: 45px;">  <font size="-3"> We highlight a key limitation in studies that use large-scale approaches to tackle current challenges in visual sentiment analysis. In addition to demonstrating that certain biases cannot be fully addressed, we offer a guide on how to move forward.  </font>  </p>
+<p style="margin-left: 45px;">  <font size="-1"> We highlight a key limitation in studies that use large-scale approaches to tackle current challenges in visual sentiment analysis. In addition to demonstrating that certain biases cannot be fully addressed, we offer a guide on how to move forward.  </font>  </p>
 
 
 - A Theory of Guided  Propaganda (**``CPB``**) (**``PC``**) (JMP-1)
 
-<p style="margin-left: 45px;">  <font size="-3">  By using machine learning tools, I am exploring persistent structural properties of political propaganda canvas that (could) affect persuasion in autocracy. The project is in the data mining phase. </font> </p>
+<p style="margin-left: 45px;">  <font size="-1">  By using machine learning tools, I am exploring persistent structural properties of political propaganda canvas that (could) affect persuasion in autocracy. The project is in the data mining phase. </font> </p>
 
 - [Autocrat versus Challenger: Revealing Hidden Discontent through Implicit Political Attitudes.](https://www.dropbox.com/scl/fi/nv2pwtfkpd6y5qwkrgclp/Sirotkina-Implicit-attitudes-VWAR.pdf?rlkey=xm133krd06ixvis3zrr1ozern&dl=0) 
 
-<p style="margin-left: 45px;">  <font size="-3">  To explain why citizens support or oppose dictatorial leadership, most approaches to studying political behavior and public opinion in autocracies focus on mass explicit preferences. I show that implicit preferences - people's gut attitudes about politics - represent a significant and yet understudied source of citizens' disruptive preferences against the regime and in support of dictators' opponents.  </font> </p>
+<p style="margin-left: 45px;">  <font size="-1">  To explain why citizens support or oppose dictatorial leadership, most approaches to studying political behavior and public opinion in autocracies focus on mass explicit preferences. I show that implicit preferences - people's gut attitudes about politics - represent a significant and yet understudied source of citizens' disruptive preferences against the regime and in support of dictators' opponents.  </font> </p>
 
 The rest is in my [CV](https://esirotkina.github.io/main/cv.pdf).
    
