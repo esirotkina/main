@@ -27,18 +27,19 @@ I plan/hope [insert degree of uncertainty here] to be **on the job market in 202
 
 
 - [Vision and Division: Democrats and Republicans Look at Political Images
-Differently, Reflecting Their Attitude.]([http://olgasparyan.com/documents/202405_SG_VisionDivision.pdf](https://www.dropbox.com/scl/fi/flrv2ufi60rwgtgpddc04/Gasparyan-Sirotkina-Visual-Sentiment.pdf?rlkey=squ4dh0vvgp5tfxkx3orqhrso&e=1&st=kw3chxsy&dl=0)) (with [Olga Gasparyan](https://olgasparyan.com/)) (**``CPB``**) (**``PC``**) (JMP-2)
+Differently, Reflecting Their Attitude.](http://olgasparyan.com/documents/202405_SG_VisionDivision.pdf) (**``CPB``**) (**``PC``**) (JMP-2)
 
-<p style="margin-left: 45px;">  <font size="-3">  Olga and I are proposing a new approach to understanding why some visuals depicting politics trigger polarized evaluations while others do not. We argue that the key to understanding this puzzle lies in how we analyze these images and what we consider an important analysis unit. Understanding this will improve our prediction of the effect that political images have on perceptions.  </font>  </p>
+<p style="margin-left: 45px;">  <font size="-3"> 
+In a large-scale eye-tracking study, we show how motivated visual processing reinforces and potentially deepens partisan divides.  </font>  </p>
   
 - [Media Choice and Audience Perceptions: Evidence from
 Visual Framing of Immigration in News Stories.](https://www.dropbox.com/scl/fi/tcepn3ngtyg6sishdacn7/MediaBias2024.pdf?rlkey=wo5url36rf8diqnke0sb8me8k&st=ywastor4&dl=0) (with [Olga Gasparyan](https://olgasparyan.com/)) (**``CPB``**) (**``PC``**)   
 
 <p style="margin-left: 45px;">  <font size="-3">  We explore how media outlets from different ideological perspectives visually frame a polarizing issue, immigration, and how their target audiences are likely to interpret these frames. We illustrate yet again that media bias is important to study, but this time from the perspective of a visual slant.  </font>  </p>
      
-- [Decoding Visual Sentiment of Political Imagery.](https://www.dropbox.com/scl/fi/u2br4onkm751kuy4os210/Decoding-Visual-Sentiment-of-Political-Imagery.pdf?rlkey=3chk75j6m2oax4a3n2bwrabsw&st=t6upn1qz&dl=0) (with [Olga Gasparyan](https://olgasparyan.com/)) (**``CPB``**) (**``PC``**)   
+- [When Picture is not Complete: Decoding Visual Sentiment of Political Imagery.](https://www.dropbox.com/scl/fi/flrv2ufi60rwgtgpddc04/Gasparyan-Sirotkina-Visual-Sentiment.pdf?rlkey=squ4dh0vvgp5tfxkx3orqhrso&e=1&st=kw3chxsy&dl=0) (**``CPB``**) (**``PC``**)   
 
-<p style="margin-left: 45px;">  <font size="-3">  We point out an important limitation of studies that use at-scale approaches to address annotator bias. In addition to showing that some biases cannot be addressed, we provide a guide for how to proceed.  </font>  </p>
+<p style="margin-left: 45px;">  <font size="-3"> We highlight a key limitation in studies that use large-scale approaches to tackle current challenges in visual sentiment analysis. In addition to demonstrating that certain biases cannot be fully addressed, we offer a guide on how to move forward.  </font>  </p>
 
 
 - A Theory of Guided  Propaganda (**``CPB``**) (**``PC``**) (**``CPP``**)  (JMP-1)
