@@ -29,8 +29,7 @@ I plan/hope [insert degree of uncertainty here] to be **on the job market in 202
 - [Vision and Division: Democrats and Republicans Look at Political Images
 Differently, Reflecting Their Attitude.](http://olgasparyan.com/documents/202405_SG_VisionDivision.pdf) (**``CPB``**) (**``PC``**) (JMP-2)
 
-<p style="margin-left: 45px;">  <font size="-3"> 
-In a large-scale eye-tracking study, we show how motivated visual processing reinforces and potentially deepens partisan divides.  </font>  </p>
+<p style="margin-left: 45px;">  <font size="-2"> In a large-scale eye-tracking study, we show how motivated visual processing reinforces and potentially deepens partisan divides.  </font>  </p>
   
 - [Media Choice and Audience Perceptions: Evidence from
 Visual Framing of Immigration in News Stories.](https://www.dropbox.com/scl/fi/tcepn3ngtyg6sishdacn7/MediaBias2024.pdf?rlkey=wo5url36rf8diqnke0sb8me8k&st=ywastor4&dl=0) (with [Olga Gasparyan](https://olgasparyan.com/)) (**``CPB``**) (**``PC``**)   
