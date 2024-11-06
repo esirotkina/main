@@ -28,8 +28,8 @@ I plan/hope [insert degree of uncertainty here] to be **on the job market in 202
 ## I am currently working on:
 
 
-- [Vision and Division: Democrats and Republicans Look at Political Images
-Differently, Reflecting Their Attitude.](http://olgasparyan.com/documents/202405_SG_VisionDivision.pdf) (**``AP``**) (**``CPB``**) (JMP-2)
+- [Vision and Division: Political Leanings Shape Visual Attention and Attitudes
+Toward Political Imagery.](https://www.dropbox.com/scl/fi/tx8tv4wm8esxmtvh8npja/Vision-and-Division-Sirotkina-Gasparyan-Nov24.pdf?rlkey=whep1228nqj2e97g9z3kc8qrx&st=fbqq4sff&dl=0) (with [Olga Gasparyan](https://olgasparyan.com/))(**``AP``**) (**``CPB``**) (JMP-2)
 
 <p style="margin-left: 45px;">  <font size="-1"> In a large-scale eye-tracking study, we show how motivated visual processing reinforces and potentially deepens partisan divides.  </font>  </p>
   
