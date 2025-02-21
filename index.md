@@ -34,7 +34,7 @@ Toward Political Imagery.](https://www.dropbox.com/scl/fi/tx8tv4wm8esxmtvh8npja/
 <p style="margin-left: 45px;">  <font size="-1"> In a large-scale eye-tracking study, we show how motivated visual processing reinforces and potentially deepens partisan divides.  </font>  </p>
   
 - [Media Choice and Audience Perceptions: Evidence from
-Visual Framing of Immigration in News Stories.](https://www.dropbox.com/scl/fi/tcepn3ngtyg6sishdacn7/MediaBias2024.pdf?rlkey=wo5url36rf8diqnke0sb8me8k&st=ywastor4&dl=0) (with [Olga Gasparyan](https://olgasparyan.com/)) (**``AP``**) (**``PC``**) (**``CPB``**)   
+Visual Framing of Immigration in News Stories.](https://www.dropbox.com/scl/fi/tcepn3ngtyg6sishdacn7/MediaBias2024.pdf?rlkey=wo5url36rf8diqnke0sb8me8k&st=ywastor4&dl=0) (with [Olga Gasparyan](https://olgasparyan.com/)) (**``AP``**) (**``PC``**) (**``CPB``**)   R&R in PLOS ONE
 
 <p style="margin-left: 45px;">  <font size="-1">  We explore how media outlets from different ideological perspectives visually frame a polarizing issue, immigration, and how their target audiences are likely to interpret these frames. We illustrate yet again that media bias is important to study, but this time from the perspective of a visual slant.  </font>  </p>
      
