@@ -49,10 +49,10 @@ Visual Framing of Immigration in News Stories.](https://www.dropbox.com/scl/fi/3
 
 <details>
 <summary>
-I introduce the concept of audio dramaturgy in propaganda as the recurring organization of auditory features—such as voice, conversation rhythm, and speaking dynamics—which frames political narratives by consistently pairing specific topics with distinct auditory cues. 
+<p style="margin-left: 45px;">  <font size="-1"> I introduce the concept of audio dramaturgy in propaganda as the recurring organization of auditory features—such as voice, conversation rhythm, and speaking dynamics—which frames political narratives by consistently pairing specific topics with distinct auditory cues. 
 </summary>
 
-Analyzing around ten thousand manually extracted and computationally coded audio segments across four hundred hours of content from Russia's leading political talk show, I identify dramaturgical patterns that have underpinned a decade of anti-Ukraine propaganda. I then reconstruct these patterns in synthetic audio passages and, through a survey experiment, examine the mechanisms driving their persuasiveness, likability, and memorability. These findings highlight the role of audio dramaturgy in embedding propaganda narratives into public consciousness and, while centered on Russian propaganda, provide broader insights into how controlled media use orchestrated audio markers for persuasion.
+Analyzing around ten thousand manually extracted and computationally coded audio segments across four hundred hours of content from Russia's leading political talk show, I identify dramaturgical patterns that have underpinned a decade of anti-Ukraine propaganda. I then reconstruct these patterns in synthetic audio passages and, through a survey experiment, examine the mechanisms driving their persuasiveness, likability, and memorability. These findings highlight the role of audio dramaturgy in embedding propaganda narratives into public consciousness and, while centered on Russian propaganda, provide broader insights into how controlled media use orchestrated audio markers for persuasion. </font> </p>
 
 </details>
 
