@@ -29,23 +29,23 @@ I plan/hope [insert degree of uncertainty here] to be **on the job market in 202
 
 
 - [Vision and Division: Political Leanings Shape Visual Attention and Attitudes
-Toward Political Imagery.](https://www.dropbox.com/scl/fi/tx8tv4wm8esxmtvh8npja/Vision-and-Division-Sirotkina-Gasparyan-Nov24.pdf?rlkey=whep1228nqj2e97g9z3kc8qrx&st=fbqq4sff&dl=0) (with [Olga Gasparyan](https://olgasparyan.com/))(**``AP``**) (**``CPB``**) (JMP-2)
+Toward Political Imagery.](https://www.dropbox.com/scl/fi/xq0q0phh5b0elvidrafpy/VandD.pdf?rlkey=qjaqp3dr9c5mi5afhtv4faroi&st=qos1ffi1&dl=0) (with [Olga Gasparyan](https://olgasparyan.com/))(**``AP``**) (**``CPB``**) (JMP-2)
 
 <p style="margin-left: 45px;">  <font size="-1"> In a large-scale eye-tracking study, we show how motivated visual processing reinforces and potentially deepens partisan divides.  </font>  </p>
   
 - [Media Choice and Audience Perceptions: Evidence from
-Visual Framing of Immigration in News Stories.](https://www.dropbox.com/scl/fi/tcepn3ngtyg6sishdacn7/MediaBias2024.pdf?rlkey=wo5url36rf8diqnke0sb8me8k&st=ywastor4&dl=0) (with [Olga Gasparyan](https://olgasparyan.com/)) (**``AP``**) (**``PC``**) (**``CPB``**)   R&R in PLOS ONE
+Visual Framing of Immigration in News Stories.](https://www.dropbox.com/scl/fi/3rahufmyh1zex0i3p98ll/MediaBias2025.pdf?rlkey=h0ntftrnso4tjrdl9bt8ipm7x&st=590nnujm&dl=0) (with [Olga Gasparyan](https://olgasparyan.com/)) (**``AP``**) (**``PC``**) (**``CPB``**)   R&R in PLOS ONE
 
 <p style="margin-left: 45px;">  <font size="-1">  We explore how media outlets from different ideological perspectives visually frame a polarizing issue, immigration, and how their target audiences are likely to interpret these frames. We illustrate yet again that media bias is important to study, but this time from the perspective of a visual slant.  </font>  </p>
      
-- [When Picture is not Complete: Decoding Visual Sentiment of Political Imagery.](https://www.dropbox.com/scl/fi/flrv2ufi60rwgtgpddc04/Gasparyan-Sirotkina-Visual-Sentiment.pdf?rlkey=squ4dh0vvgp5tfxkx3orqhrso&e=1&st=kw3chxsy&dl=0) (**``AP``**) (**``CPB``**)   
+- [When Picture is not Complete: Decoding Visual Sentiment of Political Imagery.](https://www.dropbox.com/scl/fi/wgs5zm7s6cbjr7kh5w9hd/AnnotatorsBias2024.pdf?rlkey=19utybl5tzzkemm7sasf2ke6k&st=dfiqwyt3&dl=0) (**``AP``**) (**``CPB``**)   
 
 <p style="margin-left: 45px;">  <font size="-1"> We highlight a key limitation in studies that use large-scale approaches to tackle current challenges in visual sentiment analysis. In addition to demonstrating that certain biases cannot be fully addressed, we offer a guide on how to move forward.  </font>  </p>
 
 
-- A Theory of Guided  Propaganda (**``CPB``**) (**``PC``**) (JMP-1)
+- Sounds About Right: Exploring the Audio Dramaturgy of Political Propaganda (**``CPB``**) (**``PC``**) (JMP-1)
 
-<p style="margin-left: 45px;">  <font size="-1">  By using machine learning tools, I am exploring persistent structural properties of political propaganda canvas that (could) affect persuasion in autocracy. The project is in the data mining phase. </font> </p>
+<p style="margin-left: 45px;">  <font size="-1">  How does propaganda structure audio and voice to shape political persuasion? This study introduces the concept of *audio dramaturgy* in propaganda as the recurring organization of auditory features—such as voice, conversation rhythm, and speaking dynamics—which frames political narratives by consistently pairing specific topics with distinct auditory cues. Analyzing around ten thousand manually extracted and computationally coded audio segments across four hundred hours of content from Russia's leading political talk show, I identify dramaturgical patterns that have underpinned a decade of anti-Ukraine propaganda. I then reconstruct these patterns in synthetic audio passages and, through a survey experiment, examine the mechanisms driving their persuasiveness, likability, and memorability. These findings highlight the role of audio dramaturgy in embedding propaganda narratives into public consciousness and, while centered on Russian propaganda, provide broader insights into how controlled media use orchestrated audio markers for persuasion. </font> </p>
 
 - [Autocrat versus Challenger: Revealing Hidden Discontent through Implicit Political Attitudes.](https://www.dropbox.com/scl/fi/nv2pwtfkpd6y5qwkrgclp/Sirotkina-Implicit-attitudes-VWAR.pdf?rlkey=xm133krd06ixvis3zrr1ozern&dl=0) 
 
