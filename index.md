@@ -38,22 +38,17 @@ Visual Framing of Immigration in News Stories.](https://www.dropbox.com/scl/fi/3
 
 <p style="margin-left: 45px;">  <font size="-1">  We explore how media outlets from different ideological perspectives visually frame a polarizing issue, immigration, and how their target audiences are likely to interpret these frames. We illustrate yet again that media bias is important to study, but this time from the perspective of a visual slant.  </font>  </p>
      
-- [When Picture is not Complete: Decoding Visual Sentiment of Political Imagery.](https://www.dropbox.com/scl/fi/wgs5zm7s6cbjr7kh5w9hd/AnnotatorsBias2024.pdf?rlkey=19utybl5tzzkemm7sasf2ke6k&st=dfiqwyt3&dl=0) (**``AP``**) (**``CPB``**)   
+- [When Picture is not Complete: Decoding Visual Sentiment of Political Imagery.](https://www.dropbox.com/scl/fi/wgs5zm7s6cbjr7kh5w9hd/AnnotatorsBias2024.pdf?rlkey=19utybl5tzzkemm7sasf2ke6k&st=dfiqwyt3&dl=0) (with [Olga Gasparyan](https://olgasparyan.com/)) (**``AP``**) (**``CPB``**)   
 
 <p style="margin-left: 45px;">  <font size="-1"> We highlight a key limitation in studies that use large-scale approaches to tackle current challenges in visual sentiment analysis. In addition to demonstrating that certain biases cannot be fully addressed, we offer a guide on how to move forward.  </font>  </p>
 
 
 - Sounds About Right: Exploring the Audio Dramaturgy of Political Propaganda (**``CPB``**) (**``PC``**) (JMP-1)
 
-<details><summary><span style="margin-left: 45px; font-size: 0.8em;">
-I introduce the concept of audio dramaturgy in propaganda as the recurring organization of auditory features—such as voice, conversation rhythm, and speaking dynamics—which frames political narratives by consistently pairing specific topics with distinct auditory cues.
-</span></summary>
-<span style="margin-left: 45px; font-size: 0.8em;">
-Analyzing around ten thousand manually extracted and computationally coded audio segments across four hundred hours of content from Russia's leading political talk show, I identify dramaturgical patterns that have underpinned a decade of anti-Ukraine propaganda. I then reconstruct these patterns in synthetic audio passages and, through a survey experiment, examine the mechanisms driving their persuasiveness, likability, and memorability. These findings highlight the role of audio dramaturgy in embedding propaganda narratives into public consciousness and, while centered on Russian propaganda, provide broader insights into how controlled media use orchestrated audio markers for persuasion.
-</span>
+<details><summary><span style="margin-left: 45px; font-size: 0.8em;"> I introduce the concept of audio dramaturgy in propaganda as the recurring organization of auditory features—such as voice, conversation rhythm, and speaking dynamics—which frames political narratives by consistently pairing specific topics with distinct auditory cues. </span></summary> <span style="margin-left: 45px; font-size: 0.8em;"> Analyzing around ten thousand manually extracted and computationally coded audio segments across four hundred hours of content from Russia's leading political talk show, I identify dramaturgical patterns that have underpinned a decade of anti-Ukraine propaganda. I then reconstruct these patterns in synthetic audio passages and, through a survey experiment, examine the mechanisms driving their persuasiveness, likability, and memorability. These findings highlight the role of audio dramaturgy in embedding propaganda narratives into public consciousness and, while centered on Russian propaganda, provide broader insights into how controlled media use orchestrated audio markers for persuasion. </span>
 </details>
 
-- [Autocrat versus Challenger: Revealing Hidden Discontent through Implicit Political Attitudes.](https://www.dropbox.com/scl/fi/2fqcu6se6xzt726bganfc/AvsCh.pdf?rlkey=q4w72zo0fz4v3ffkxkt7r76hu&st=qmsjxqj7&dl=0) 
+- [Autocrat versus Challenger: Understanding Implicit Political Attitudes in Contested Autocracies.](https://www.dropbox.com/scl/fi/2fqcu6se6xzt726bganfc/AvsCh.pdf?rlkey=q4w72zo0fz4v3ffkxkt7r76hu&st=qmsjxqj7&dl=0) 
 
 <p style="margin-left: 45px;">  <font size="-1">  To explain why citizens support or oppose dictatorial leadership, most approaches to studying political behavior and public opinion in autocracies focus on mass explicit preferences. I show that implicit preferences - people's gut attitudes about politics - represent a significant and yet understudied source of citizens' disruptive preferences against the regime and in support of dictators' opponents.  </font> </p>
 
