@@ -19,7 +19,7 @@ sass:
 nav:
  - name: "About"
    link: "/"
- - name: "cv"
-   link: "cv.pdf"
- - name: "Contact"
-   link: "contact" 
+ - name: "CV"
+   link: "resume.pdf"
+ - name: "Email"
+   link: "email" 
