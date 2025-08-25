@@ -2,24 +2,21 @@
 layout: default
 ---
 
-## Ph.D. Candidate, Political Science, University of North Carolina at Chapel Hill
+## Assistant Professor and Faculty Fellow at the Center for Data Science, NYU
 
 <img class="profile-picture" src="sherlock.jpg">
 
 Hi!
 
-My research answers how machine learning can be applied to explain and predict political behavior at scale. I focus on developing classification tools that combine experimentation, eye-tracking, and deep learning to understand how stable societal divisions influence political decisions. My work seeks to expand our understanding of these dynamics and improve predictive accuracy in political science, with a primary focus on the U.S. and post-Soviet space.
+My research answers how machine learning can be applied to explain and predict political behavior at scale. I develop classification tools that integrate experimentation, eye-tracking, and deep learning to study how stable societal divisions shape political decisions. This work aims both to deepen our understanding of these dynamics and to improve predictive accuracy in political science, with particular emphasis on the United States and the post-Soviet region.
 
-I prefer to think that my research mainly focuses on one or several of the following fields:
+I see my research as situated primarily within the following fields:
 
 - [x] Computational Political Behavior (**``CPB``**)
 - [x] Political Communication (**``PC``**)
 - [x] American Politics (**``AP``**) 
 
-<br/>
-I plan/hope [insert degree of uncertainty here] to be **on the job market in 2025-26.**
-
-<br/>
+<br/> ~~I plan/hope [insert degree of uncertainty here] to be **on the job market in 2025-26.**~~ <br/>
 <br/>
 
 
@@ -34,7 +31,7 @@ Toward Political Imagery.](https://www.dropbox.com/scl/fi/xq0q0phh5b0elvidrafpy/
 <p style="margin-left: 45px;">  <font size="-1"> In a large-scale eye-tracking study, we show how motivated visual processing reinforces and potentially deepens partisan divides.  </font>  </p>
   
 - [Media Choice and Audience Perceptions: Evidence from
-Visual Framing of Immigration in News Stories.](https://www.dropbox.com/scl/fi/3rahufmyh1zex0i3p98ll/MediaBias2025.pdf?rlkey=h0ntftrnso4tjrdl9bt8ipm7x&st=590nnujm&dl=0) (with [Olga Gasparyan](https://olgasparyan.com/)) (**``AP``**) (**``PC``**) (**``CPB``**)   R&R in PLOS ONE
+Visual Framing of Immigration in News Stories.](https://www.dropbox.com/scl/fi/3rahufmyh1zex0i3p98ll/MediaBias2025.pdf?rlkey=h0ntftrnso4tjrdl9bt8ipm7x&st=590nnujm&dl=0) (with [Olga Gasparyan](https://olgasparyan.com/)) (**``AP``**) (**``PC``**) (**``CPB``**)   accepted in PLOS ONE
 
 <p style="margin-left: 45px;">  <font size="-1">  We explore how media outlets from different ideological perspectives visually frame a polarizing issue, immigration, and how their target audiences are likely to interpret these frames. We illustrate yet again that media bias is important to study, but this time from the perspective of a visual slant.  </font>  </p>
      
