@@ -3,5 +3,5 @@ layout: default
 is_contact: true
 ---
 
-* Email: [esirotkina@unc.edu](mailto:esirotkina@unc.edu)
+* Email: [elena.sirotkina@nyu.edu](mailto:elena.sirotkina@nyu.edu)
 
