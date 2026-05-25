@@ -23,6 +23,9 @@ I am on the job market 2026-27
 
 
 
+
+
+
 ## I am currently working on:
 
 - Reading Between the Eyes: A Framework for Recovering (Political) Identity from Eye‑Tracking Weak Signal (**``AP``**) (**``PC``**) (**``CPB``**) <br/> <span style="border:2px solid black; padding:6px 12px; font-weight:bold; display:inline-block;"> Job Market Paper </span> <br/>
