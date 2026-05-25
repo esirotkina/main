@@ -14,7 +14,10 @@ I see my research as situated primarily within the following fields:
 - [x] Political Communication (**``PC``**)
 - [x] American Politics (**``AP``**) 
 
-<br/> <b><span style="color:#800020;">I am on the job market 2026-27</span></b> <br/>
+<br/>
+<span style="border:2px solid black; padding:6px 12px; font-weight:bold; display:inline-block;">
+I am on the job market 2026-27
+</span>
 <br/>
 
 
