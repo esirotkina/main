@@ -6,9 +6,7 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi!
-
-My research answers how machine learning can be applied to explain and predict political behavior at scale. I develop classification tools that integrate experimentation, eye-tracking, and deep learning to study how stable societal divisions shape political decisions. This work aims both to deepen our understanding of these dynamics and to improve predictive accuracy in political science, with particular emphasis on the United States and the post-Soviet region.
+Mom, you remember I'm a political scientist, right? Well, you know what, things have been changing really fast in our field these last few years, because of generative AI and all these computational methods that are finally becoming common and accessible in the social sciences. I'm very optimistic about all the mess that's going on around us! Now we have instruments far more powerful than what the field had before, and we can revisit old theories with a much stronger microscope, picking up subtle patterns in political behavior that older approaches couldn't see. I'm taking advantage of these instruments to study how political identity organizes the way people make decisions, and the other way around, how you can take a person's behavior and work backward to recover what their political identity actually is. Broadly speaking, in my work I borrow from computer vision and machine learning and apply these tools to understand more granular patterns in political behavior, and I develop computer vision tools that predict and reconstruct this behavior at scale, which I believe matters a great deal for computational political science. I'm on the job market this year, wish me luck!
 
 I see my research as situated primarily within the following fields:
 
