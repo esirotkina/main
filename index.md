@@ -24,8 +24,8 @@ I see my research as situated primarily within the following fields:
 
 ## I am currently working on:
 
-- Reading Between the Eyes: A Framework for Recovering (Political) Identity from Eye‑Tracking Weak Signal
-<p style="margin-left: 45px;">  <font size="-1"> I build a classifier that uses computer vision and gaze data to predict political identity from imagery, the first model in computational political science to do so from a weak behavioral signal. </font>  </p>
+- Reading Between the Eyes: A Framework for Recovering (Political) Identity from Eye‑Tracking Weak Signal (**``AP``**) (**``PC``**) (**``CPB``**) <b><span style="color:#800020;">JOB MARKET PAPER</span></b>
+<p style="margin-left: 45px;">  <font size="-1"> I build a classifier that uses computer vision and gaze data to learn political identity from a weak behavioral signal of eye tracking. </font>  </p>
     
 - [Unpacking the Eye of the Beholder: Social Location, Identity, and the Moving Target of Political Perspectives.](https://arxiv.org/abs/2605.11166) (**``AP``**) (**``CPB``**)
 
@@ -38,7 +38,7 @@ I see my research as situated primarily within the following fields:
 - [Media Choice and Audience Perceptions: Evidence from
 Visual Framing of Immigration in News Stories.](https://www.dropbox.com/scl/fi/3rahufmyh1zex0i3p98ll/MediaBias2025.pdf?rlkey=h0ntftrnso4tjrdl9bt8ipm7x&st=590nnujm&dl=0) (**``AP``**) (**``PC``**) (**``CPB``**)  published in PLOS ONE
 
-<p style="margin-left: 45px;">  <font size="-1">  We explore how media outlets from different ideological perspectives visually frame a polarizing issue, immigration, and how their target audiences are likely to interpret these frames. We illustrate yet again that media bias is important to study, but this time from the perspective of a visual slant.  </font>  </p>
+<p style="margin-left: 45px;">  <font size="-1">  We examine how ideologically different media outlets visually frame immigration and how their audiences are likely to interpret these frames. We show why media bias remains important to study, with visual slant as a central mechanism.  </font>  </p>
 
 - [Sounds About Right: Exploring the Audio Dramaturgy of Political Propaganda](https://www.dropbox.com/scl/fi/pnfpy8dydxqhytt0c8783/Sirotkina-audio-drama.pdf?rlkey=44rcpe8lyq9qogchh9mm2kq52&st=x4apy3l6&dl=0) (**``CPB``**) (**``PC``**)
 
