@@ -40,7 +40,7 @@ Visual Framing of Immigration in News Stories.](https://www.dropbox.com/scl/fi/3
 
 <p style="margin-left: 45px;">  <font size="-1">  We examine how ideologically different media outlets visually frame immigration and how their audiences are likely to interpret these frames. We show why media bias remains important to study, with visual slant as a central mechanism.  </font>  </p>
 
-- [Sounds About Right: Exploring the Audio Dramaturgy of Political Propaganda](https://www.dropbox.com/scl/fi/pnfpy8dydxqhytt0c8783/Sirotkina-audio-drama.pdf?rlkey=44rcpe8lyq9qogchh9mm2kq52&st=x4apy3l6&dl=0) (**``CPB``**) (**``PC``**)
+- [Sounds About Right: Exploring Audio Dramaturgy of Political Propaganda](https://www.dropbox.com/scl/fi/pnfpy8dydxqhytt0c8783/Sirotkina-audio-drama.pdf?rlkey=44rcpe8lyq9qogchh9mm2kq52&st=x4apy3l6&dl=0) (**``CPB``**) (**``PC``**)
 
 <p style="margin-left: 45px;">  <font size="-1"> I introduce the concept of audio dramaturgy in propaganda as the recurring organization of auditory features—such as voice, conversation rhythm, and speaking dynamics—which frames political narratives by consistently pairing specific topics with distinct auditory cues. </font>  </p> 
 
