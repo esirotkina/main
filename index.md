@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Assistant Professor and Faculty Fellow at the Center for Data Science, NYU
+## Assistant Professor and Faculty Fellow at Center for Data Science, NYU
 
 <img class="profile-picture" src="sherlock.jpg">
 
