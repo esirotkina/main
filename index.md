@@ -25,10 +25,8 @@ I am on the job market 2026-27
 
 ## I am currently working on:
 
-- Reading Between the Eyes: A Framework for Recovering (Political) Identity from Eye‑Tracking Weak Signal (**``AP``**) (**``PC``**) (**``CPB``**) <br/>
-<span style="border:2px solid black; padding:6px 12px; font-weight:bold; display:inline-block;"> Job Market Paper
-</span>
-<br/>
+- Reading Between the Eyes: A Framework for Recovering (Political) Identity from Eye‑Tracking Weak Signal (**``AP``**) (**``PC``**) (**``CPB``**) <br/> <span style="border:2px solid black; padding:6px 12px; font-weight:bold; display:inline-block;"> Job Market Paper </span> <br/>
+
 <p style="margin-left: 45px;">  <font size="-1"> I build a classifier that uses computer vision and gaze data to learn political identity from a weak behavioral signal of eye tracking. </font>  </p>
     
 - [Unpacking the Eye of the Beholder: Social Location, Identity, and the Moving Target of Political Perspectives.](https://arxiv.org/abs/2605.11166) (**``AP``**) (**``CPB``**)
