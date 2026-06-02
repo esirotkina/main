@@ -31,7 +31,13 @@ I am on the job market 2026-27
 - Reading Between the Eyes: A Framework for Recovering (Political) Identity from Eye‑Tracking Weak Signal (**``AP``**) (**``PC``**) (**``CPB``**) <br/> <span style="border:2px solid black; padding:6px 12px; font-weight:bold; display:inline-block;"> Job Market Paper </span> <br/>
 
 <p style="margin-left: 45px;">  <font size="-1"> I build a classifier that uses computer vision and gaze data to learn political identity from a weak behavioral signal of eye tracking. </font>  </p>
-    
+- Visual Political Polarization: How Partisan Identity Shapes Vision and Vision Reshapes Political Commitments (PAP) (**``AP``**) (**``PC``**) (**``CPB``**)
+<details>
+  <summary><b>Abstract</b></summary>
+  <p style="margin-left: 45px;">
+Most models of political polarization assume that partisans receive the same perceptual input and diverge at the stage of interpretation. This assumption underlies every major exposure-based depolarization intervention. I develop a theory of visual political polarization here that challenges this logic at its root, specifying the full causal pathway through which partisan identity shapes gaze, gaze shapes emotional and evaluative responses, and these responses feed back into the partisan commitments that directed gaze in the first place. The theory predicts that Democrats and Republicans looking at the same political image will physically deliver different visual content to their evaluative systems through different gaze patterns, and that these gaze patterns will in turn reshape the political commitments that produced them. I test the theory in a pilot study (N=608 U.S. adults) using two independent randomized treatments with browser-based eye-tracking, intervening at a different point in the loop. Pilot results provide preliminary evidence on each link of the causal chain: partisan identity restructures gaze (H1), exogenously restructured gaze shifts evaluations  (H2), gaze mediates the effect of partisan activation on evaluations (H3), and altered gaze feeds back into standing issue positions and partisan attachment (H4). The loop is self-reinforcing and asymmetric across parties. I use the pilot to calculate optimal sample sizes and pre-register a confirmatory study. </p>
+</details>
+
 - [Unpacking the Eye of the Beholder: Social Location, Identity, and the Moving Target of Political Perspectives.](https://arxiv.org/abs/2605.11166) (**``AP``**) (**``CPB``**)
 
 <p style="margin-left: 45px;">  <font size="-1"> I develop and test a classifier for measuring (political) identity-specific visual sentiment. </font>  </p>
