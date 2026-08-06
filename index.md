@@ -32,7 +32,7 @@ I am on the job market 2026-27
  <div style="margin-top:6px;"><span style="border:2px solid black; padding:6px 12px; font-weight:bold; display:inline-block;"> Job Market Paper </span></div>
 
 <p style="margin-left: 45px;">  <font size="-1"> I build a classifier that uses computer vision and gaze data to learn political identity from a weak behavioral signal of eye tracking. </font>  </p>
-- Visual Political Polarization: How Partisan Identity Shapes Vision and Vision Reshapes Political Commitments (PAP) (**``AP``**) (**``PC``**) (**``CPB``**)
+- Visual Political Polarization (PAP) (**``AP``**) (**``PC``**) (**``CPB``**)
  <details>
   <summary style="margin-left: 70px;"><font size="-1"><b>Abstract</b></font></summary>
   <p style="margin-left: 70px;"><font size="-1">
