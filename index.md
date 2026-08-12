@@ -33,7 +33,7 @@ I am on the job market 2026-27
 
 <p style="margin-left: 45px;">  <font size="-1"> I build a classifier that uses computer vision and gaze data to learn political identity from a weak behavioral signal of eye tracking. </font>  </p>
 
-- [Human versus Computer Vision](https://arxiv.org/abs/2608.10181) (**``CPB``**)
+- [Human versus Computer Vision.](https://arxiv.org/abs/2608.10181) (**``CPB``**)
 
 <p style="margin-left: 45px;">  <font size="-1"> I study what machines learn when they are trained to imitate human behavior, using visual attention as a case where their predictions can be compared directly with people. I show where that imitation fails across people and which of those failures machines can learn to correct. </font>  </p> 
 
