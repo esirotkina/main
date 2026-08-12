@@ -40,6 +40,10 @@ Most theories of political polarization assume partisans see the same informatio
 </details>
 <p style="margin-left: 45px;">  <font size="-1"> I develop and test a theory of visual political polarization, focusing on how people become polarized through the way they visually perceive the world. </font>  </p>
 
+- [Human versus Computer Vision](https://arxiv.org/abs/2608.10181) (**``CPB``**)
+
+<p style="margin-left: 45px;">  <font size="-1"> I study what machines learn when they are trained to imitate human behavior, using visual attention as a case where their predictions can be compared directly with people. I show where that imitation fails across people and which of those failures machines can learn to correct. </font>  </p> 
+
 - [Unpacking the Eye of the Beholder: Social Location, Identity, and the Moving Target of Political Perspectives.](https://arxiv.org/abs/2605.11166) (**``AP``**) (**``CPB``**)
 
 <p style="margin-left: 45px;">  <font size="-1"> I develop and test a classifier for measuring (political) identity-specific visual sentiment. </font>  </p>
@@ -52,11 +56,6 @@ Most theories of political polarization assume partisans see the same informatio
 Visual Framing of Immigration in News Stories.](https://www.dropbox.com/scl/fi/3rahufmyh1zex0i3p98ll/MediaBias2025.pdf?rlkey=h0ntftrnso4tjrdl9bt8ipm7x&st=590nnujm&dl=0) (**``AP``**) (**``PC``**) (**``CPB``**)  published in PLOS ONE
 
 <p style="margin-left: 45px;">  <font size="-1">  We examine how ideologically different media outlets visually frame immigration and how their audiences are likely to interpret these frames. We show why media bias remains important to study, with visual slant as a central mechanism.  </font>  </p>
-
-- [Human versus Computer Vision](https://arxiv.org/abs/2608.10181) (**``CPB``**)
-
-<p style="margin-left: 45px;">  <font size="-1"> I study what machines learn when they are trained to imitate human behavior, using visual attention as a case where their predictions can be compared directly with people. I show where that imitation fails across people and which of those failures machines can learn to correct. </font>  </p> 
-
 
 The rest is in my [CV](https://esirotkina.github.io/main/resume.pdf).
    
