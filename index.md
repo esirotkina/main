@@ -53,7 +53,7 @@ Visual Framing of Immigration in News Stories.](https://www.dropbox.com/scl/fi/3
 
 <p style="margin-left: 45px;">  <font size="-1">  We examine how ideologically different media outlets visually frame immigration and how their audiences are likely to interpret these frames. We show why media bias remains important to study, with visual slant as a central mechanism.  </font>  </p>
 
-- [Human versus Computer Vision]([https://www.dropbox.com/scl/fi/pnfpy8dydxqhytt0c8783/Sirotkina-audio-drama.pdf?rlkey=44rcpe8lyq9qogchh9mm2kq52&st=x4apy3l6&dl=0](https://arxiv.org/abs/2608.10181)) (**``CPB``**)
+- [Human versus Computer Vision](https://arxiv.org/abs/2608.10181) (**``CPB``**)
 
 <p style="margin-left: 45px;">  <font size="-1"> I study what machines learn when they are trained to imitate human behavior, using visual attention as a case where their predictions can be compared directly with people. I show where that imitation fails across people and which of those failures machines can learn to correct. </font>  </p> 
 
