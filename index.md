@@ -45,7 +45,7 @@ I am on the job market 2026-27
 
 <p style="margin-left: 45px;">  <font size="-1"> In a large-scale eye-tracking study, we show how motivated visual processing works on partisan divides.  </font>  </p>
   
-- Visual Political Polarization (PAP) (**``AP``**) (**``PC``**) (**``CPB``**)
+- Visual Political Polarization. (PAP) (**``AP``**) (**``PC``**) (**``CPB``**)
  <details>
   <summary style="margin-left: 70px;"><font size="-1"><b>Abstract</b></font></summary>
   <p style="margin-left: 70px;"><font size="-1">
