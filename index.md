@@ -32,13 +32,6 @@ I am on the job market 2026-27
  <div style="margin-top:6px;"><span style="border:2px solid black; padding:6px 12px; font-weight:bold; display:inline-block;"> Job Market Paper </span></div>
 
 <p style="margin-left: 45px;">  <font size="-1"> I build a classifier that uses computer vision and gaze data to learn political identity from a weak behavioral signal of eye tracking. </font>  </p>
-- Visual Political Polarization (PAP) (**``AP``**) (**``PC``**) (**``CPB``**)
- <details>
-  <summary style="margin-left: 70px;"><font size="-1"><b>Abstract</b></font></summary>
-  <p style="margin-left: 70px;"><font size="-1">
-Most theories of political polarization assume partisans see the same information and diverge in interpretation. I propose a theory of visual political polarization which holds that part of this divergence may begin in viewing itself, as opposing viewers examine one image differently and those differences also shape what they report. I pretest the theory in a pilot of 608 U.S. adults with two eye-tracking experiments. Under free viewing, a viewer's position divides her attention, evaluations, and emotions (H1). Interrupted political viewing narrowed that distance (H2). Activated political identity changes gaze and leaves responses where they stood (H3). The distance is rebuilt at each viewing, widening and narrowing with its pace (H4). Visual political polarization is therefore a difference a viewer builds during viewing, her position fixing its direction and the extent of her viewing its size. Pilot supplies effect sizes for the preregistered study. </font></p>
-</details>
-<p style="margin-left: 45px;">  <font size="-1"> I develop and test a theory of visual political polarization, focusing on how people become polarized through the way they visually perceive the world. </font>  </p>
 
 - [Human versus Computer Vision](https://arxiv.org/abs/2608.10181) (**``CPB``**)
 
@@ -52,10 +45,13 @@ Most theories of political polarization assume partisans see the same informatio
 
 <p style="margin-left: 45px;">  <font size="-1"> In a large-scale eye-tracking study, we show how motivated visual processing works on partisan divides.  </font>  </p>
   
-- [Media Choice and Audience Perceptions: Evidence from
-Visual Framing of Immigration in News Stories.](https://www.dropbox.com/scl/fi/3rahufmyh1zex0i3p98ll/MediaBias2025.pdf?rlkey=h0ntftrnso4tjrdl9bt8ipm7x&st=590nnujm&dl=0) (**``AP``**) (**``PC``**) (**``CPB``**)  published in PLOS ONE
-
-<p style="margin-left: 45px;">  <font size="-1">  We examine how ideologically different media outlets visually frame immigration and how their audiences are likely to interpret these frames. We show why media bias remains important to study, with visual slant as a central mechanism.  </font>  </p>
+- Visual Political Polarization (PAP) (**``AP``**) (**``PC``**) (**``CPB``**)
+ <details>
+  <summary style="margin-left: 70px;"><font size="-1"><b>Abstract</b></font></summary>
+  <p style="margin-left: 70px;"><font size="-1">
+Most theories of political polarization assume partisans see the same information and diverge in interpretation. I propose a theory of visual political polarization which holds that part of this divergence may begin in viewing itself, as opposing viewers examine one image differently and those differences also shape what they report. I pretest the theory in a pilot of 608 U.S. adults with two eye-tracking experiments. Under free viewing, a viewer's position divides her attention, evaluations, and emotions (H1). Interrupted political viewing narrowed that distance (H2). Activated political identity changes gaze and leaves responses where they stood (H3). The distance is rebuilt at each viewing, widening and narrowing with its pace (H4). Visual political polarization is therefore a difference a viewer builds during viewing, her position fixing its direction and the extent of her viewing its size. Pilot supplies effect sizes for the preregistered study. </font></p>
+</details>
+<p style="margin-left: 45px;">  <font size="-1"> I develop and test a theory of visual political polarization, focusing on how people become polarized through the way they visually perceive the world. </font>  </p>
 
 The rest is in my [CV](https://esirotkina.github.io/main/resume.pdf).
    
