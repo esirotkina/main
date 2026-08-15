@@ -28,7 +28,7 @@ I am on the job market 2026-27
 
 ## I am currently working on:
 
-- [Reading Between the Eyes: A Framework for Recovering (Political) Identity from Eye‑Tracking Weak Signal.](https://www.dropbox.com/scl/fi/gr8j43tfedml66uvpq30x/Sirotkina_paper_Eye.pdf?rlkey=cf4g77otzh5ysb21o4y99wplq&e=1&dl=0) (**``AP``**) (**``PC``**) (**``CPB``**)
+- [Reading Between the Eyes: A Framework for Recovering Political Identity from Eye‑Tracking Weak Signal.](https://www.dropbox.com/scl/fi/gr8j43tfedml66uvpq30x/Sirotkina_paper_Eye.pdf?rlkey=cf4g77otzh5ysb21o4y99wplq&e=1&dl=0) (**``AP``**) (**``PC``**) (**``CPB``**)
  <div style="margin-top:6px;"><span style="border:2px solid black; padding:6px 12px; font-weight:bold; display:inline-block;"> Job Market Paper </span></div>
 
 <p style="margin-left: 45px;">  <font size="-1"> I build a classifier that uses computer vision and gaze data to learn political identity from a weak behavioral signal of eye tracking. </font>  </p>
