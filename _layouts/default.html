@@ -145,18 +145,40 @@
         src="//gc.zgo.at/count.js">
     </script>
 
-    <!-- Track every Dropbox link -->
+    <!-- One event per link. Dropbox files are counted under pdf/<file name>,
+         every other link under link/<address>. -->
     <script>
-        window.addEventListener('load', function () {
-            if (!window.goatcounter) {
-                return;
-            }
+        document.addEventListener('DOMContentLoaded', function () {
+            document.querySelectorAll('a[href]').forEach(function (link) {
+                var url;
+                try {
+                    url = new URL(link.href, location.href);
+                } catch (e) {
+                    return;
+                }
+                if (url.protocol !== 'http:' && url.protocol !== 'https:') {
+                    return;
+                }
 
-            document.querySelectorAll('a[href*="dropbox.com"]').forEach(function (link) {
+                var path;
+                if (/(^|\.)dropbox\.com$/.test(url.hostname)) {
+                    var file = decodeURIComponent(url.pathname.split('/').pop() || 'unnamed');
+                    path = 'pdf/' + file;
+                } else if (url.hostname === location.hostname) {
+                    path = 'link/' + url.pathname.replace(/^\//, '');
+                } else {
+                    path = 'link/' + url.hostname + url.pathname.replace(/\/$/, '');
+                }
+
+                var title = link.textContent.trim() || link.getAttribute('aria-label') || url.href;
+
                 link.addEventListener('click', function () {
+                    if (!window.goatcounter) {
+                        return;
+                    }
                     window.goatcounter.count({
-                        path: 'dropbox-pdf',
-                        title: link.textContent.trim(),
+                        path: path,
+                        title: title,
                         event: true
                     });
                 });
